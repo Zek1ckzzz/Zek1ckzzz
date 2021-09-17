@@ -14,3 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zek1ckzzz&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### interesting fact: my avatar was created by a neural network
