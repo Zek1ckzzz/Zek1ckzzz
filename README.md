@@ -11,7 +11,8 @@
 ![golang](https://img.shields.io/badge/GO-blueviolet?style=for-the-badge&logo=go)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zek1ckzzz&show_icons=true&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zek1ckzzz&show_icons=true&theme=synthwave)](https://github.com/Zek1ckzzz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/Zek1ckzzz)
 ### interesting fact: my avatar was created by a neural network
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zekicks)](https://github.com/anuraghazra/github-readme-stats)
