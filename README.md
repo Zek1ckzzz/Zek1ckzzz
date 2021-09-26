@@ -1,4 +1,4 @@
-[![Header](https://github.com/Zek1ckzzz/Zek1ckzzz/blob/main/source/icon.png)](https://t.me/zekicks)
+[![Header](https://github.com/Zek1ckzzz/Zek1ckzzz/blob/main/img/icon.png.png)](https://t.me/zekicks)
 
 ## A simple Russian student who loves to code in the evenings
 
