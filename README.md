@@ -16,5 +16,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/Zek1ckzzz)
 ### interesting fact: my avatar was created by a neural network
-# My code time:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zekicks)](https://github.com/anuraghazra/github-readme-stats)
