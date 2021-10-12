@@ -12,6 +12,10 @@
 ![golang](https://img.shields.io/badge/GO-blueviolet?style=for-the-badge&logo=go)
 ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
 
+### I study:
+![java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zek1ckzzz&show_icons=true&theme=synthwave)](https://github.com/Zek1ckzzz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/Zek1ckzzz)
