@@ -14,7 +14,3 @@
 ### I study:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
 ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zek1ckzzz&show_icons=true&theme=synthwave)](https://github.com/Zek1ckzzz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zek1ckzzz&layout=compact)](https://github.com/Zek1ckzzz)
